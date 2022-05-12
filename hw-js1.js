@@ -12,7 +12,7 @@ git add nombrearchivo.js
 /posso fare git status di nuovo per veder
 /una volte che tute le file sono add posso fare il commit
 
-git comit -m 'nombrearchivo.js add'
+git commit -m 'nombrearchivo.js add'
 git log
 
 
